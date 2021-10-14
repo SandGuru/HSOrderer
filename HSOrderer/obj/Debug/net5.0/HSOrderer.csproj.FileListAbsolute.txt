@@ -1,0 +1,16 @@
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.exe
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.deps.json
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.runtimeconfig.json
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.runtimeconfig.dev.json
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.dll
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\bin\Debug\net5.0\ref\HSOrderer.dll
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.pdb
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.dll
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\ref\HSOrderer.dll
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.pdb
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.genruntimeconfig.cache
+C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.csproj.AssemblyReference.cache
