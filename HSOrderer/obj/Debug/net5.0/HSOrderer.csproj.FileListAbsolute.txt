@@ -14,3 +14,19 @@ C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\ref\HSOrdere
 C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.pdb
 C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.genruntimeconfig.cache
 C:\Users\Cristian\source\repos\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.exe
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.deps.json
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.runtimeconfig.json
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.runtimeconfig.dev.json
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.dll
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\bin\Debug\net5.0\ref\HSOrderer.dll
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\bin\Debug\net5.0\HSOrderer.pdb
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.AssemblyInfo.cs
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.dll
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\ref\HSOrderer.dll
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.pdb
+C:\Users\crist\Desktop\SENA\Trimestre IV\HHHH\HSOrderer\HSOrderer\obj\Debug\net5.0\HSOrderer.genruntimeconfig.cache
