@@ -9,7 +9,7 @@ namespace HSOrderer
 {
     class main
     {
-        public static void Main(string[] args) {
+        public static void Main() {
             //Se define el menú principal
             string message = "Welcome to HeadSort vector orderer"; //Mensaje a mostrar en el menú
             string bmRepeat = new string('═', 80); //Border Message = Borde del mensaje

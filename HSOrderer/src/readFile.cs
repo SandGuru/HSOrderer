@@ -10,7 +10,15 @@ namespace HSOrderer.src
     {
         public static void ReadTxtFile()
         {
+            string message = "Read .txt files to sort them by vector"; //Mensaje a mostrar en el menú
+            string bmRepeat = new string('═', 80); //Border Message = Borde del mensaje
+            string voidChar = "".PadRight(21); //Método para generar carácteres vacíos
 
+            //Mensaje del menú
+            Console.WriteLine('╔' + bmRepeat + '╗');
+            Console.WriteLine('║' + voidChar + message + voidChar + '║');
+            Console.WriteLine('╚' + bmRepeat + '╝');
+            Console.WriteLine("- Enter 0 to go to main menu");
         }
     }
 }
