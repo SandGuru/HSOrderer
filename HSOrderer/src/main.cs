@@ -9,8 +9,7 @@ namespace HSOrderer
 {
     class main
     {
-        public static void Main()
-        {
+        public static void Main() {
             //Se define el menú principal
             string message = "Welcome to HeadSort vector orderer"; //Mensaje a mostrar en el menú
             string bmRepeat = new string('═', 80); //Border Message = Borde del mensaje
@@ -24,7 +23,7 @@ namespace HSOrderer
                 "2. Read .txt file and order it\n\n" +
                 "Please, enter a option: ");
 
-        enter_Option:
+            enter_Option:
             int option;
             option = Convert.ToInt32(Console.ReadLine()); //Recibe opción
 
@@ -49,7 +48,7 @@ namespace HSOrderer
                 }
             }
             while (option == 1 | option == 2);
-
+            
         }
     }
 }
